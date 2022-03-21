@@ -1,7 +1,7 @@
 ## Olá! Eu sou Rafael R. de Mattos, engenheiro e grande entusiasta de tecnologias!
 
 <!-- Atualmente, tenho estudado sobre criação de sites utilizando as tecnologias PHP com o framework Codeigniter 4, HTML5, CSS e JavaScript. Em seguida, pretendo aprofundar os estudos em Flutter, para criação de aplicativos.<br/><br/>Além disso, já utilizo linguagens como Python, VBA e AutoLISP para automatizar rotinas do dia a dia. -->
-Utilizo linguagens como Python, VBA e AutoLISP para automatizar rotinas do dia a dia.
+Gosto de estudar sobre tecnologias e utilizo as linguagens Python, VBA e AutoLISP para automatizar rotinas do dia a dia.
     
 ##
 
